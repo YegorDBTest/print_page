@@ -1,0 +1,14 @@
+@page {
+  size: auto;
+  margin: 0mm;
+}
+
+
+#print-form-box {
+  display: none;
+}
+
+
+#print-page-box {
+  display: block;
+}
